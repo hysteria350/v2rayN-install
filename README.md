@@ -17,7 +17,7 @@
 请前往 [v2rayN GitHub 官方发布页](https://github.com/2dust/v2rayN/releases) 下载最新版客户端。
 
 > ⚠️ 注意：建议下载带内核版本的 zip 包（例如：`v2rayN-With-Core.zip`），解压后可直接运行，无需安装。
-
+> ⚠️ 如无法访问github，可以使用 ghproxy 代理下载， 完整链接如下： [v2rayN-With-Core 最新带内核版本](https://ghfast.top/https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN-With-Core.zip)。
 ---
 
 ## 🔧 第二步：解压与运行
